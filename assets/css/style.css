@@ -398,7 +398,7 @@ section{
 }
 
 .home-bg{
-   background:url(/assets/img/home-bg.jpg) no-repeat;
+   background:url(../img/home-bg.jpg) no-repeat;
    background-size: cover;
    background-position: center;
 }
